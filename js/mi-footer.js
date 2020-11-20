@@ -8,6 +8,6 @@ document.head.innerHTML += /* html */
 customElements.define("mi-footer", class extends HTMLElement {
   /** Se invoca al agregar este element a la página. */
   connectedCallback() {
-    this.textContent = "Copyright © 2020 Andrade Roman Arturo.";
+    this.textContent = "Copyright © 2020 Moreno Tovar Ricardo.";
   }
 });
